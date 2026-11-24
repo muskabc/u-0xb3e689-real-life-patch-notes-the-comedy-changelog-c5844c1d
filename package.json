@@ -1,0 +1,1 @@
+{"description":"Real-Life Patch Notes: a one-line comedy changelog entry for a bug in real life.","license":"MIT","main":"main.ts","name":"u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
